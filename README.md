@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Squares]
+- 🔭 I’m currently working on [Squares](/Squares.md)
 
 <!--
 **szfazekas/szfazekas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
