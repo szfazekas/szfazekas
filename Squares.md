@@ -1,37 +1,87 @@
 ## Squares conjecture
 ___
 
+The most basic repetitive structure is xx, where x is a non-empty string. Such
+a string is also called, due to its form xx = x2, a square.
+A string is said to be square-free or repetition-free if it contains no squares. It
+was shown by Thue [22,23] that there exist square-free, respectively, cube-free,
+strings of infinite length over a ternary, respectively, binary, alphabet. On the
+other hand, it has been shown that the minimal number of distinct squares that
+any sufficiently long binary string must contain is three [9].
+A string of length n can have Θ(n2) occurrences of squares, by the trivial example of a unary word, and it is known that the maximum number of square occurrences xx, where x itself is not a repetition is Θ(n log n) [6]. Repetition counting
+has also been investigated in other settings: when the length of the root (x for a repetition x) has length as small or large as possible (e.g., [7,9,20]), for partial words,
+where words contain extra joker symbols that match every letter of the alphabet
+(e.g., [2,3], as well as for abelian and other types of repetitions where the consecutive factors are not identical copies but equivalent in a looser sense (e.g. [17]).
+Some, quite old and well studied, problems regarding this topic refer to the
+maximal number of distinct repetitions that a word can have, as well as to the
+maximum number of maximal repetitions (runs) that a string can contain.
+This Work Was Supported By JSPS KAKENHI Grant Number JP19K11815.
+c Springer Nature Switzerland AG 2021
+T. Bureˇs et al. (Eds.): SOFSEM 2021, LNCS 12607, pp. 1–10, 2021.
+https://doi.org/10.1007/978-3-030-67731-2_29
+Author Proof
+2 S. Z. Fazekas and R. Merca¸s
+Problems. In [10], the authors prove that the maximum number of distinct
+squares in a word is bounded by twice the length of the word (by looking at the
+start position of the last occurrence of each square) and conjecture the following:
+Conjecture 1. The number of distinct squares in a length n word is less than n.
+In the same paper, the authors also provide a construction for a lower bound
+of n − O(
+√n). Another simple construction of a good lower bound of the same
+order was provided in [16], by binary words with k occurrences of b’s and with
+a number of a’s quadratic in k, which have 2k−1
+2k+2n many distinct squares.
+Several alternative proofs regarding the 2n upper bound are known, either
+using combinatorics on words techniques [14], or just calculus [12]. The upper
+bound was later improved to 2n − Θ(log n) in [15] by showing that the number
+of double squares is bounded. Finally, in [8] the bound was reduced to 11n/6 by
+using quite technical arguments to further restrict the number of double squares.
+Regarding larger exponents, in [4] the authors showed that for a fixed integer
+ > 2, the number of distinct -powers in a length n word is less than n
+−2 . For
+cubes, i.e.,  = 3 the bound was improved to 4n/5 in [5].
+The latter problem involving repetitions of a higher fixed exponent, has its
+inspiration in the investigation of the maximum number of runs that a word
+can have. A run represents a repetition whose period is less than half and which
+cannot be extended to either left or right in the given word, without breaking
+the periodicity. The bound on this number was long conjectured to be less than
+the word’s length [18], but only recently it is was showed to be the case [1].
+Theorem 1. The number of runs in a length n word is less than n.
+This bound was improved by Holub [13] to ≈ 0.9482n, indicating that the
+optimal upper bounds will differ in the cases of runs and distinct squares.
+
+___
 Some related references:
 
 1. Bannai, H.I.T., Inenaga, S., Nakashima, Y., Takeda, M., Tsuruta, K.: The “runs”
 theorem. SIAM J. Comput. 46(5), 1501–1514 (2017)
 
-2. Blanchet-Sadri, F., Merca ̧s, R., Scott, G.: Counting distinct squares in partial
+1. Blanchet-Sadri, F., Merca ̧s, R., Scott, G.: Counting distinct squares in partial
 words. Acta Cybern. 19(2), 465–477 (2009)
 
-3. Blanchet-Sadri, F., Merca ̧s, R., Scott, G.: A generalization of Thue freeness for
+R3. Blanchet-Sadri, F., Merca ̧s, R., Scott, G.: A generalization of Thue freeness for
 partial words. Theor. Comput. Sci. 410(8–10), 793–800 (2009)
 
-4. Crochemore, M., Fazekas, S., Iliopoulos, C., Jayasekera, I.: Number of occurrences
+R4. Crochemore, M., Fazekas, S., Iliopoulos, C., Jayasekera, I.: Number of occurrences
 of powers in strings. Int. J. Found. Comput. Sci. 21(4), 535–547 (2010)
 
-5. Crochemore, M., Iliopoulos, C., Kubica, M., Radoszewski, J., Rytter, W., Wale ́n,
+R5. Crochemore, M., Iliopoulos, C., Kubica, M., Radoszewski, J., Rytter, W., Wale ́n,
 T.: The maximal number of cubic runs in a word. J. Comput. System Sci. 78(6),
 1828–1836 (2012)
 
-6. Crochemore, M., Rytter, W.: Squares, cubes, and time-space efficient string search-
+R6. Crochemore, M., Rytter, W.: Squares, cubes, and time-space efficient string search-
 ing. Algorithmica 13(5), 405–425 (1995)
 
-7. Dekking, F.: On repetitions of blocks in binary sequences. J. Combin. Theory Ser.
+R7. Dekking, F.: On repetitions of blocks in binary sequences. J. Combin. Theory Ser.
 A 20, 292–299 (1976)
 
-8. Deza, A., Franek, F., Thierry, A.: How many double squares can a string contain?
+R8. Deza, A., Franek, F., Thierry, A.: How many double squares can a string contain?
 Discrete Appl. Math. 180, 52–69 (2015)
 
-9. Fraenkel, A., Simpson, J.: How many squares must a binary sequence contain?
+R9. Fraenkel, A., Simpson, J.: How many squares must a binary sequence contain?
 Electron. J. Combin. 2, #R2 (1995)
 
-10. Fraenkel, A., Simpson, J.: How many squares can a string contain? J. Combin.
+R10. Fraenkel, A., Simpson, J.: How many squares can a string contain? J. Combin.
 Theory Ser. A 82(1), 112–120 (1998)
 
 11. Gusfield, D.: Algorithms on Strings, Trees, and Sequences - Computer Science and
