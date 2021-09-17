@@ -53,16 +53,16 @@ optimal upper bounds will differ in the cases of runs and distinct squares.
 ___
 Some related references:
 
-1. Bannai, H.I.T., Inenaga, S., Nakashima, Y., Takeda, M., Tsuruta, K.: The “runs”
+### 1. Bannai, H.I.T., Inenaga, S., Nakashima, Y., Takeda, M., Tsuruta, K.: The “runs”
 theorem. SIAM J. Comput. 46(5), 1501–1514 (2017)
 
-1. Blanchet-Sadri, F., Merca ̧s, R., Scott, G.: Counting distinct squares in partial
+### 1. Blanchet-Sadri, F., Merca ̧s, R., Scott, G.: Counting distinct squares in partial
 words. Acta Cybern. 19(2), 465–477 (2009)
 
-1. Blanchet-Sadri, F., Merca ̧s, R., Scott, G.: A generalization of Thue freeness for
+### 1. Blanchet-Sadri, F., Merca ̧s, R., Scott, G.: A generalization of Thue freeness for
 partial words. Theor. Comput. Sci. 410(8–10), 793–800 (2009)
 
-1. Crochemore, M., Fazekas, S., Iliopoulos, C., Jayasekera, I.: Number of occurrences
+### 1. Crochemore, M., Fazekas, S., Iliopoulos, C., Jayasekera, I.: Number of occurrences
 of powers in strings. Int. J. Found. Comput. Sci. 21(4), 535–547 (2010)
 
 1. Crochemore, M., Iliopoulos, C., Kubica, M., Radoszewski, J., Rytter, W., Wale ́n,
