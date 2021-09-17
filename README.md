@@ -1,7 +1,9 @@
-### Hi there 👋
+### Szilárd Zsolt Fazekas
 ________________
 
-Szil\'ard Zsolt Fazekas
+Associate Professor
+Graduate School of Engineering Science
+Akita University
 
 📫 My email: firstname.lastname@gmail
 
