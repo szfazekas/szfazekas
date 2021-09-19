@@ -8,7 +8,7 @@ ________________
 📫 My email: firstname_without_accent.lastname@gmail
 
 
-🔭 I’m currently working on:
+🔭 I am currently working on:
 - [Counting repetitions](/Squares.md)
 - [Oritatami systems](/Oritatami.md)
 - [Unconventional automata models](/Oneway.md)
