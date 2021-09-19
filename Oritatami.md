@@ -5,5 +5,5 @@ OS were introduced as mathematical models for exploiting co-transcriptional RNA 
 
 Current work on OS: to be added.
 
-The project [AUrisim](https://github.com/szfazekas/AUrisim-julia) aims to provide an easy to use and hopefully fast enough OS simulator with example systems. An earlier and discontinued [attempt]() used the open source game engine Godot, but simulating the folding was too slow, so I changed to Julia and Pluto notebooks.
+The project [AUrisim](https://github.com/szfazekas/AUrisim-julia) aims to provide an easy to use and hopefully fast enough OS simulator with example systems. An earlier and discontinued [attempt](https://github.com/szfazekas/AUrisim) used the open source game engine Godot, but simulating the folding was too slow, so I changed to Julia and Pluto notebooks.
 
