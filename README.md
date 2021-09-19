@@ -1,7 +1,7 @@
 ## Szilárd Zsolt Fazekas
-### Associate Professor
-### Graduate School of Engineering Science
-### Akita University
+#### Associate Professor
+#### Graduate School of Engineering Science
+#### Akita University
 ________________
 
 
