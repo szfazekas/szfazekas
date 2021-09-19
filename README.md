@@ -5,7 +5,7 @@ Akita University
 ________________
 
 
-📫 My email: firstname.lastname@gmail
+📫 My email: firstname_without_accent.lastname@gmail
 
 
 🔭 I’m currently working on:
