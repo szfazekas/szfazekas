@@ -1,15 +1,9 @@
 ## Squares conjecture
 ___
 
-The most basic repetitive structure is xx, where x is a non-empty string. Such
-a string is also called, due to its form xx = x2, a square.
-A string is said to be square-free or repetition-free if it contains no squares. It
-was shown by Thue [22,23] that there exist square-free, respectively, cube-free,
-strings of infinite length over a ternary, respectively, binary, alphabet. On the
-other hand, it has been shown that the minimal number of distinct squares that
-any sufficiently long binary string must contain is three [9].
-A string of length n can have Θ(n2) occurrences of squares, by the trivial example of a unary word, and it is known that the maximum number of square occurrences xx, where x itself is not a repetition is Θ(n log n) [6]. Repetition counting
-has also been investigated in other settings: when the length of the root (x for a repetition x) has length as small or large as possible (e.g., [7,9,20]), for partial words,
+The most basic repetitive structure is $xx$ called a square due to its form $xx = x^2$. A string is square-free if it contains no squares. It was shown by Thue [22,23] that there exist square-free and cube-free strings of infinite length over ternary, respectively, binary, alphabets. A string of length $n$ can have $\Theta(n^2)$ occurrences of squares (take the trivial example of a unary word), and it is known that the maximum number of primitively rooted square is $\Theta(n \log n)$ [6]. 
+
+Repetition counting has also been investigated in other settings: when the length of the root (x for a repetition x) has length as small or large as possible (e.g., [7,9,20]), for partial words,
 where words contain extra joker symbols that match every letter of the alphabet
 (e.g., [2,3], as well as for abelian and other types of repetitions where the consecutive factors are not identical copies but equivalent in a looser sense (e.g. [17]).
 Some, quite old and well studied, problems regarding this topic refer to the
