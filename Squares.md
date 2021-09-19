@@ -1,49 +1,28 @@
 ## Squares conjecture
+
 ___
 
 The most basic repetitive structure is $xx$ called a square due to its form $xx = x^2$. A string is square-free if it contains no squares. It was shown by Thue [22,23] that there exist square-free and cube-free strings of infinite length over ternary, respectively, binary, alphabets. A string of length $n$ can have $\Theta(n^2)$ occurrences of squares (take the trivial example of a unary word), and it is known that the maximum number of primitively rooted square is $\Theta(n \log n)$ [6]. 
 
-Repetition counting has also been investigated in other settings: when the length of the root (x for a repetition x) has length as small or large as possible (e.g., [7,9,20]), for partial words,
-where words contain extra joker symbols that match every letter of the alphabet
-(e.g., [2,3], as well as for abelian and other types of repetitions where the consecutive factors are not identical copies but equivalent in a looser sense (e.g. [17]).
-Some, quite old and well studied, problems regarding this topic refer to the
-maximal number of distinct repetitions that a word can have, as well as to the
-maximum number of maximal repetitions (runs) that a string can contain.
-This Work Was Supported By JSPS KAKENHI Grant Number JP19K11815.
-c Springer Nature Switzerland AG 2021
-T. Bureˇs et al. (Eds.): SOFSEM 2021, LNCS 12607, pp. 1–10, 2021.
-https://doi.org/10.1007/978-3-030-67731-2_29
-Author Proof
-2 S. Z. Fazekas and R. Merca¸s
-Problems. In [10], the authors prove that the maximum number of distinct
-squares in a word is bounded by twice the length of the word (by looking at the
-start position of the last occurrence of each square) and conjecture the following:
-Conjecture 1. The number of distinct squares in a length n word is less than n.
-In the same paper, the authors also provide a construction for a lower bound
-of n − O(
-√n). Another simple construction of a good lower bound of the same
-order was provided in [16], by binary words with k occurrences of b’s and with
-a number of a’s quadratic in k, which have 2k−1
-2k+2n many distinct squares.
-Several alternative proofs regarding the 2n upper bound are known, either
-using combinatorics on words techniques [14], or just calculus [12]. The upper
-bound was later improved to 2n − Θ(log n) in [15] by showing that the number
-of double squares is bounded. Finally, in [8] the bound was reduced to 11n/6 by
-using quite technical arguments to further restrict the number of double squares.
-Regarding larger exponents, in [4] the authors showed that for a fixed integer
- > 2, the number of distinct -powers in a length n word is less than n
-−2 . For
-cubes, i.e.,  = 3 the bound was improved to 4n/5 in [5].
-The latter problem involving repetitions of a higher fixed exponent, has its
-inspiration in the investigation of the maximum number of runs that a word
-can have. A run represents a repetition whose period is less than half and which
-cannot be extended to either left or right in the given word, without breaking
-the periodicity. The bound on this number was long conjectured to be less than
-the word’s length [18], but only recently it is was showed to be the case [1].
-Theorem 1. The number of runs in a length n word is less than n.
-This bound was improved by Holub [13] to ≈ 0.9482n, indicating that the
-optimal upper bounds will differ in the cases of runs and distinct squares.
+In [10], the authors prove that the maximum number of distinct squares in a word is bounded by twice the length of the word. They also conjecture the following:
 
+### Conjecture 1. 
+> The number of distinct squares in a length n word is less than n.
+
+In the same paper, there is a construction for a lower bound of $n − O(\sqrt{n})$. Another simple lower bound construction of the same order is binary words with k occurrences of b’s and with increasing number of a’s between each pair of consecutive b's. A number of alternative proofs of the 2n upper bound are known, see, e.g., [14] or [12]. The upper
+bound was first improved to $2n − \Theta(\log n)$ in [15] and then to $11n/6$ in [8] by restricting the number of double squares (positions where the rightmost occurrences of two squares start). 
+
+For larger exponents $k$, the number of distinct powers is less than $n/(k−2)$. For cubes the bound was improved to $4n/5$ in [5]. The problem involving higher exponents has its
+inspiration in the investigation of the maximum number of runs in a string. Runs are maximal repetitions whose period is less than half of their length. The bound on their number was long conjectured to be less than the string's length [18], and recently proved to be as conjectured [1].
+
+### Theorem 1. 
+> The number of runs in a length n word is less than n.
+
+This bound was improved to $≈ 0.9482n$ in [13], indicating that the optimal upper bounds will probably differ in the cases of runs and distinct squares.
+
+
+___
+This work has been supported by JSPS KAKENHI Grant Number JP19K11815.
 ___
 Some related references:
 
