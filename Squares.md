@@ -21,6 +21,8 @@ inspiration in the investigation of the maximum number of runs in a string. Runs
 This bound was improved to $≈ 0.9482n$ in [13], indicating that the optimal upper bounds will probably differ in the cases of runs and distinct squares.
 
 
+
+The notebook on [cluster of repetitions](https://github.com/szfazekas/Combinatorics-on-Words/blob/master/clusters.ipynb) implements helper functions and some ideas presented in our paper with Robert Mercas from SOFSEM 2021.
 ___
 This work has been supported by JSPS KAKENHI Grant Number JP19K11815.
 ___
