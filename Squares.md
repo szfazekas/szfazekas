@@ -92,5 +92,5 @@ In: Proceedings 40th FOCS, pp. 596–604. IEEE Computer Society Press (1999)
 2. Rampersad, N., Shallit, J., Wang, M.W.: Avoiding large squares in infinite binary
 words. Theor. Comput. Sci. 339(1), 19–34 (2005)
 
-
+___
 [Back to main page](https://github.com/szfazekas/szfazekas)
