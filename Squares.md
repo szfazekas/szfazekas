@@ -22,7 +22,7 @@ This bound was improved to $≈ 0.9482n$ in [13], indicating that the optimal up
 
 
 
-The notebook on [cluster of repetitions](https://github.com/szfazekas/Combinatorics-on-Words/blob/master/clusters.ipynb) implements helper functions and some ideas presented in our paper with Robert Mercas from SOFSEM 2021.
+The notebook on [cluster of repetitions](https://github.com/szfazekas/Combinatorics-on-Words/blob/master/clusters.ipynb) implements helper functions and some ideas presented in our paper with Robert Mercas from SOFSEM 2021. The notebook is not a finished product, so use with caution.
 ___
 This work has been supported by JSPS KAKENHI Grant Number JP19K11815.
 ___
