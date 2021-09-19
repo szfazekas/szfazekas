@@ -9,8 +9,8 @@ ________________
 
 
 🔭 I’m currently working on:
-- [Squares](/Squares.md)
-- [Oritatami systems](/Oritatmi.md)
+- [Counting repetitions](/Squares.md)
+- [Oritatami systems](/Oritatami.md)
 - [Unconventional automata models](/Oneway.md)
 
 
