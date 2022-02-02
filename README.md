@@ -1,4 +1,5 @@
-<img src="/profile.jpg"  width="200" height="200">
+<img src="/profile.jpg"  width="250" height="250">
+
 ## Szilárd Zsolt Fazekas
 Associate Professor    
 Graduate School of Engineering Science   
