@@ -1,4 +1,4 @@
-![](<img src="profile.jpg" width="100" height="100">)
+<img src="/profile.jpg"  width="200" height="200">
 ## Szilárd Zsolt Fazekas
 Associate Professor    
 Graduate School of Engineering Science   
