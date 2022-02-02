@@ -1,3 +1,4 @@
+![](/profile.jpg)
 ## Szilárd Zsolt Fazekas
 Associate Professor    
 Graduate School of Engineering Science   
