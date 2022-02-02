@@ -1,4 +1,4 @@
-![](/profile.jpg)
+![](/profile.jpg | width=200)
 ## Szilárd Zsolt Fazekas
 Associate Professor    
 Graduate School of Engineering Science   
