@@ -10,11 +10,11 @@ ________________
 📫 My email: firstname_without_accent.lastname@gmail
 
 
-🔭 I am currently working on:
+🔭 Recently I have been working on:
 - [Counting repetitions](/Squares.md)           - a topic of intense study in the fields of combinatorics on words and string algorithms
  <img src="/clusterEx2.png"  width="208" height="141">
 
-- [Oritatami systems](/Oritatami.md)            - a mathematical model of the cotranscriptional folding of RNA
+- [Oritatami systems](/Oritatami.md)            - a molecular computing model based on the cotranscriptional folding of RNA
  <img src="/counter1kcrop.gif"  width="450" height="121">
 
 - [Unconventional automata models](/Oneway.md)  - mainly simple variants of finite automata with no/few extra resources added to the classical model
