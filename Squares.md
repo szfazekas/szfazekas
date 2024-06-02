@@ -1,4 +1,4 @@
-## Squares conjecture
+## Distinct squares, runs, and other repetitions
 
 ___
 
