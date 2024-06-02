@@ -12,7 +12,7 @@ ________________
 
 🔭 I am currently working on:
 - [Counting repetitions](/Squares.md)           - a topic of intense study in the fields of combinatorics on words and string algorithms
- <img src="/clusterEx.png"  width="250" height="250"> 
+ <img src="/clusterEx2.png"  width="250" height="250"> 
 - [Oritatami systems](/Oritatami.md)            - a mathematical model of the cotranscriptional folding of RNA 
 - [Unconventional automata models](/Oneway.md)  - mainly simple variants of finite automata with no/few extra resources added to the classical model
 
