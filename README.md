@@ -15,7 +15,7 @@ ________________
  <img src="/clusterEx2.png"  width="416" height="282">
 
 - [Oritatami systems](/Oritatami.md)            - a mathematical model of the cotranscriptional folding of RNA
- <img src="/counter1kcrop.gif"  width="450" height="400">
+ <img src="/counter1kcrop.gif"  width="450" height="121">
 
 - [Unconventional automata models](/Oneway.md)  - mainly simple variants of finite automata with no/few extra resources added to the classical model
  <img src="/owjfaEx.png"  width="440" height="330">
