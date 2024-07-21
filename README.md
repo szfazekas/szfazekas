@@ -10,6 +10,8 @@ ________________
 📫 My email: firstname_without_accent.lastname@gmail
 
 
+I have been an associate professor and prior to that a lecturer at Akita University (Japan), since 2013. Before that, I was an assistant professor at the University of Nyíregyháza (Hungary) and a postdoc at Kyoto Sangyo University. I obtained my PhD in the Research Group on Mathematical Linguistics at Rovira i Virgili University (Spain) in 2010. For more details, please see my [faculty database entry](https://akitauinfo.akita-u.ac.jp/html/100000320_en.html).
+
 🔭 Recently I have been working on:
 - [Counting repetitions](/Squares.md)           - a topic of intense study in the fields of combinatorics on words and string algorithms
  <img src="/clusterEx2.png"  width="208" height="141">
