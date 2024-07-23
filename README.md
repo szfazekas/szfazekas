@@ -1,5 +1,7 @@
 <img src="/profile.jpg"  width="250" height="250">
 
+[Japanese](/Japanese_readme.md)
+
 ## Szilárd Zsolt Fazekas
 Associate Professor    
 Graduate School of Engineering Science   
