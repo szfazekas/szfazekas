@@ -16,13 +16,13 @@ I have been an associate professor and prior to that a lecturer at Akita Univers
 
 🔭 Recently I have been working on:
 - [Counting repetitions](/Squares.md)           - a topic of intense study in the fields of combinatorics on words and string algorithms
- <img src="/clusterEx2.png"  width="208" height="141">
+ <img src="/topics/fig/clusterEx2.png"  width="208" height="141">
 
 - [Oritatami systems](/Oritatami.md)            - a molecular computing model based on the cotranscriptional folding of RNA
- <img src="/counter1kcrop.gif"  width="450" height="121">
+ <img src="/topics/fig/counter1kcrop.gif"  width="450" height="121">
 
 - [Unconventional automata models](/Oneway.md)  - mainly simple variants of finite automata with no/few extra resources added to the classical model
- <img src="/owjfaEx.png"  width="220" height="165">
+ <img src="/topics/fig/owjfaEx.png"  width="220" height="165">
 
 
 
