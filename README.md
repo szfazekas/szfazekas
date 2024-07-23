@@ -15,13 +15,13 @@ ________________
 I have been an associate professor and prior to that a lecturer at Akita University (Japan), since 2013. Before that, I was an assistant professor at the University of Nyíregyháza (Hungary) and a postdoc at Kyoto Sangyo University. I obtained my PhD in the Research Group on Mathematical Linguistics at Rovira i Virgili University (Spain) in 2010. For more details, please see my [faculty database entry](https://akitauinfo.akita-u.ac.jp/html/100000320_en.html).
 
 🔭 Recently I have been working on:
-- [Counting repetitions](/Squares.md)           - a topic of intense study in the fields of combinatorics on words and string algorithms
+- [Counting repetitions](/topics/Squares.md)           - a topic of intense study in the fields of combinatorics on words and string algorithms
  <img src="/topics/fig/clusterEx2.png"  width="208" height="141">
 
-- [Oritatami systems](/Oritatami.md)            - a molecular computing model based on the cotranscriptional folding of RNA
+- [Oritatami systems](/topics/Oritatami.md)            - a molecular computing model based on the cotranscriptional folding of RNA
  <img src="/topics/fig/counter1kcrop.gif"  width="450" height="121">
 
-- [Unconventional automata models](/Oneway.md)  - mainly simple variants of finite automata with no/few extra resources added to the classical model
+- [Unconventional automata models](/topics/Oneway.md)  - mainly simple variants of finite automata with no/few extra resources added to the classical model
  <img src="/topics/fig/owjfaEx.png"  width="220" height="165">
 
 
