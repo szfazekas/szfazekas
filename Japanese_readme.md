@@ -1,6 +1,6 @@
 <img src="/profile.jpg"  width="250" height="250">
 
-[English](/Readme.md)
+[English](/README.md)
 
 ## ファゼカス・シラールド・ゾルターン
 准教授
