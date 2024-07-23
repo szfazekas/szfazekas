@@ -1,6 +1,6 @@
 <img src="/profile.jpg"  width="250" height="250">
 
-[Japanese](/Japanese_readme.md)
+[日本語](/Japanese_readme.md)
 
 ## Szilárd Zsolt Fazekas
 Associate Professor    
