@@ -1,9 +1,8 @@
 <img src="/profile.jpg"  width="250" height="250">
 
-[Japanese](/Japanese_readme.md)
+[English](/Readme.md)
 
-## 
-ファゼカス・シラールド・ゾルターン
+## ファゼカス・シラールド・ゾルターン
 准教授
 工学資源学研究科
 秋田大学
@@ -15,10 +14,13 @@
 🔭 最近の研究テーマは以下の通りです：
 
 反復のカウント - 文字列アルゴリズムや単語の組合せ論の分野で集中的に研究されています
+
  <img src="/clusterEx2.png"  width="208" height="141">
 
 折畳みシステム - RNAの転写共折り畳みに基づく分子計算モデル
+
  <img src="/counter1kcrop.gif"  width="450" height="121">
 
 非伝統的なオートマトンモデル - 主に古典的なモデルに追加のリソースをほとんど持たない有限オートマトンの単純なバリアント
+
  <img src="/owjfaEx.png"  width="220" height="165">
