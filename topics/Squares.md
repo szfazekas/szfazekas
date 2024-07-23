@@ -33,7 +33,9 @@ We also introduced a graph theoretic approach to attack the problem of counting 
 ### Clusters of repetition roots
 We started the study of [clusters of repetition roots](https://link.springer.com/chapter/10.1007/978-3-030-67731-2_29), which are the set of positions in a string where said roots occur. We formulated a stronger conjecture than Fraenkel and Simpson’s, in terms of the lower bounds on the size of the clusters in terms of the number of clusters included in them. We proved [special cases of our conjecture](https://link.springer.com/chapter/10.1007/978-3-031-13257-5_4) when the nested clusters form a linear order. Following the proof by Brlek and Li of the Fraenkel-Simpson conjecture, we have been working extending their technique to give a full proof of our stronger conjecture, using the so called Rauzy graphs of the strings.
 
-![image](/topics/fig/clusterEx2.png)  ![image](/topics/fig/goals_old.png)
+![image](/topics/fig/clusterEx2.png)  
+
+<img src="/topics/fig/goals_old.png" alt="Goals" width="200"/>
 
 
 
