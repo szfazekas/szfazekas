@@ -1,4 +1,4 @@
-<img src="/profile.jpg"  width="250" height="250">
+<img src="/topics/fig/profile.jpg"  width="250" height="250">
 
 [日本語](/Japanese_readme.md)
 
