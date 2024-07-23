@@ -1,24 +1,40 @@
-## Distinct squares, runs, and other repetitions
+# Distinct squares, runs, and other repetitions
 
 ___
 
 The most basic repetitive structure is $xx$ called a square due to its form $xx = x^2$. A string is square-free if it contains no squares. It was shown by Thue [22,23] that there exist square-free and cube-free strings of infinite length over ternary, respectively, binary, alphabets. A string of length $n$ can have $\Theta(n^2)$ occurrences of squares (take the trivial example of a unary word), and it is known that the maximum number of primitively rooted square is $\Theta(n \log n)$ [6]. 
 
-In [10], Fraenkel and Simpson proved that the maximum number of distinct squares in a word is bounded by twice the length of the word. They also conjectured the following, proved in 2023 by Shuo Li and Srečko Brlek [21]:
+In [10], Fraenkel and Simpson proved that the maximum number of distinct squares in a word is bounded by twice the length of the word. They also conjectured the following,
 
-### Theorem 1. 
 > The number of distinct squares in a length n word is less than n.
 
-In the same paper, there is a construction for a lower bound of $n − O(\sqrt{n})$. Another simple lower bound construction of the same order is binary words with k occurrences of b’s and with increasing number of a’s between each pair of consecutive b's. A number of alternative proofs of the 2n upper bound are known, see, e.g., [14] or [12]. The upper
+In the same paper, there is a construction for a lower bound of $n − O(\sqrt{n})$. 
+Another simple lower bound construction of the same order is binary words with k occurrences of b’s and with increasing number of a’s between each pair of consecutive b's. A number of alternative proofs of the 2n upper bound are known, see, e.g., [14] or [12]. The upper
 bound was first improved to $2n − \Theta(\log n)$ in [15] and then to $11n/6$ in [8] by restricting the number of double squares (positions where the rightmost occurrences of two squares start). 
 
 For larger exponents $k$, the number of distinct powers is less than $n/(k−2)$. For cubes the bound was improved to $4n/5$ in [5]. The problem involving higher exponents has its
 inspiration in the investigation of the maximum number of runs in a string. Runs are maximal repetitions whose period is less than half of their length. The bound on their number was long conjectured to be less than the string's length [18], and recently proved to be as conjectured [1].
 
-### Theorem 2. 
 > The number of runs in a length n word is less than n.
 
 This bound was improved to $≈ 0.9482n$ in [13], indicating that the optimal upper bounds will probably differ in the cases of runs and distinct squares.
+
+Fraenkel and Simpson's conjecture was proved in 2023 by Shuo Li and Srečko Brlek [21].
+
+## Our work
+
+### Higher exponents and square networks
+Prior to Brlek and Li's papers, we provided the best upper bounds on the [number of distinct repetitions of different exponents](https://www.worldscientific.com/doi/10.1142/S0129054110007416). 
+We also introduced a graph theoretic approach to attack the problem of counting distinct squares by looking at the [networks induced by their shared special positions](https://www.sciencedirect.com/science/article/pii/S030439752100462X).
+
+![image](/topics/fig/squares1.jpg)
+
+
+### Clusters of repetition roots
+We started the study of [clusters of repetition roots](https://link.springer.com/chapter/10.1007/978-3-030-67731-2_29), which are the set of positions in a string where said roots occur. We formulated a stronger conjecture than Fraenkel and Simpson’s, in terms of the lower bounds on the size of the clusters in terms of the number of clusters included in them. We proved [special cases of our conjecture](https://link.springer.com/chapter/10.1007/978-3-031-13257-5_4) when the nested clusters form a linear order. Following the proof by Brlek and Li of the Fraenkel-Simpson conjecture, we have been working extending their technique to give a full proof of our stronger conjecture, using the so called Rauzy graphs of the strings.
+
+![image](/topics/fig/clusterEx2.png)  ![image](/topics/fig/goals_old.png)
+
 
 
 
