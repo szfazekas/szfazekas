@@ -12,4 +12,18 @@ Complexity of non-classical automata can be expressed quantitatively by the numb
 ___
 This work has been supported by JSPS KAKENHI Grant Number JP23K10976.
 ___
+
+Publications on the topic:
+
+- Szilárd Zsolt Fazekas, Béla Klein, Tore Koß, Florin Manea, Robert Mercas, Timo Specht: Subsequence Matching and Analysis Problems for Automata with Translucent Letters. CIAA 2025: 148-164
+- Szilárd Zsolt Fazekas, Tore Koß, Florin Manea, Robert Mercas, Timo Specht: Subsequence Matching and Analysis Problems for Formal Languages. ISAAC 2024: 28:1-28:23
+- Szilárd Zsolt Fazekas, Robert Mercas: Sweep Complexity Revisited. CIAA 2023: 116-127
+- Szilárd Zsolt Fazekas, Shinnosuke Seki: Freezing 1-Tag Systems with States. AFL 2023: 82-95
+- Szilárd Zsolt Fazekas, Robert Mercas, Olívia Wu: Complexities for Jumps and Sweeps. J. Autom. Lang. Comb. 27(1-3): 131-149 (2022)
+- Szilárd Zsolt Fazekas, Kaito Hoshi, Akihiro Yamamura: The effect of jumping modes on various automata models. Nat. Comput. 21(1): 17-30 (2022)
+- Szilárd Zsolt Fazekas, Kaito Hoshi, Akihiro Yamamura: Two-way deterministic automata with jumping mode. Theor. Comput. Sci. 864: 92-102 (2021)
+- Szilárd Zsolt Fazekas, Kaito Hoshi, Akihiro Yamamura: Two-Way Jumping Automata. FAW 2020: 108-120
+- Szilárd Zsolt Fazekas, Kaito Hoshi, Akihiro Yamamura: Enhancement of Automata with Jumping Modes. Automata 2019: 62-76
+- Hiroyuki Chigahara, Szilárd Zsolt Fazekas, Akihiro Yamamura: One-Way Jumping Finite Automata. Int. J. Found. Comput. Sci. 27(3): 391- (2016)
+
 [Back to main page](https://github.com/szfazekas/szfazekas)
