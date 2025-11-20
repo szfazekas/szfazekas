@@ -17,6 +17,7 @@ Publications on the topic:
 
 - Szilárd Zsolt Fazekas, Béla Klein, Tore Koß, Florin Manea, Robert Mercas, Timo Specht: Subsequence Matching and Analysis Problems for Automata with Translucent Letters. CIAA 2025: 148-164
 - Szilárd Zsolt Fazekas, Tore Koß, Florin Manea, Robert Mercas, Timo Specht: Subsequence Matching and Analysis Problems for Formal Languages. ISAAC 2024: 28:1-28:23
+- Szilárd Zsolt Fazekas, Victor Mitrana, Andrei Paun, Mihaela Paun: Jump Complexity of Deterministic Finite Automata with Translucent Letters. ICTAC 2024: 62-77
 - Szilárd Zsolt Fazekas, Robert Mercas: Sweep Complexity Revisited. CIAA 2023: 116-127
 - Szilárd Zsolt Fazekas, Shinnosuke Seki: Freezing 1-Tag Systems with States. AFL 2023: 82-95
 - Szilárd Zsolt Fazekas, Robert Mercas, Olívia Wu: Complexities for Jumps and Sweeps. J. Autom. Lang. Comb. 27(1-3): 131-149 (2022)
