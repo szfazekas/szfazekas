@@ -1,9 +1,9 @@
 ### Molecular computation
 ___
 
-## Co-transciptional folding: Oritatami Systems (OS) were introduced as mathematical models for exploiting co-transcriptional RNA folding for molecular programming.
+## Co-transciptional folding
 
-The project [AUrisim](https://github.com/szfazekas/AUrisim-julia) aims to provide an easy to use and hopefully fast enough OS simulator with example systems. An earlier and discontinued [attempt](https://github.com/szfazekas/AUrisim) used the open source game engine Godot, but simulating the folding was too slow, so I changed to Julia and Pluto notebooks.
+Oritatami Systems (OS) were introduced as mathematical models for exploiting co-transcriptional RNA folding for molecular programming. The project [AUrisim](https://github.com/szfazekas/AUrisim-julia) aims to provide an easy to use and hopefully fast enough OS simulator with example systems. An earlier and discontinued [attempt](https://github.com/szfazekas/AUrisim) used the open source game engine Godot, but simulating the folding was too slow, so I changed to Julia and Pluto notebooks.
 
 Publications on the topic:
 - Szilárd Zsolt Fazekas, Naoya Iwano, Yu Kihara, Ryuichi Matsuoka, Shinnosuke Seki, Hinano Takeuchi: Towards composable computations by RNA co-transcriptional folding: A proof-of-concept demonstration of nested loops in oritatami. Theor. Comput. Sci. 999: 114550 (2024)
