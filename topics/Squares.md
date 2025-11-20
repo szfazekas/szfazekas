@@ -47,6 +47,7 @@ Publications on the topic:
 - Szilárd Zsolt Fazekas, Robert Mercas: Clusters of Repetition Roots Forming Prefix Chains. DCFS 2022: 43-56
 - Szilárd Zsolt Fazekas, Shinnosuke Seki: Square network on a word. Theor. Comput. Sci. 894: 121-134 (2021)
 - Szilárd Zsolt Fazekas, Robert Mercas: Clusters of Repetition Roots: Single Chains. SOFSEM 2021: 400-409
+- Maxime Crochemore, Szilárd Zsolt Fazekas, Costas S. Iliopoulos, Inuka Jayasekera: Number of Occurrences of powers in Strings. Int. J. Found. Comput. Sci. 21(4): 535-547 (2010)
 
 
 Some related references:
