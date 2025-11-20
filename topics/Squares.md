@@ -42,6 +42,13 @@ The notebook on [cluster of repetitions](https://github.com/szfazekas/Combinator
 ___
 This work has been supported by JSPS KAKENHI Grant Number JP19K11815.
 ___
+
+Publications on the topic:
+- Szilárd Zsolt Fazekas, Robert Mercas: Clusters of Repetition Roots Forming Prefix Chains. DCFS 2022: 43-56
+- Szilárd Zsolt Fazekas, Shinnosuke Seki: Square network on a word. Theor. Comput. Sci. 894: 121-134 (2021)
+- Szilárd Zsolt Fazekas, Robert Mercas: Clusters of Repetition Roots: Single Chains. SOFSEM 2021: 400-409
+
+
 Some related references:
 
 1. Bannai, H.I.T., Inenaga, S., Nakashima, Y., Takeda, M., Tsuruta, K.: The “runs”
