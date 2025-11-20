@@ -16,7 +16,7 @@ Publications on the topic:
 We introduced a computational model of co-transcriptional splicing and explored its power to generate RNA sequences from a given target set
 
 Publications oon the topic:
-- Da-Jung Cho, Szilárd Zsolt Fazekas, Shinnosuke Seki, Max Wiedenhöft: Programmable Co‑Transcriptional Splicing: Realizing Regular Languages via Hairpin Deletion. DNA 2025: 5:1-5:22 (Max received the Best Student Paper Award at DNA 31 for this paper)
+- Da-Jung Cho, Szilárd Zsolt Fazekas, Shinnosuke Seki, Max Wiedenhöft: Programmable Co‑Transcriptional Splicing: Realizing Regular Languages via Hairpin Deletion. DNA 2025: 5:1-5:22 (** Max received the Best Student Paper Award at DNA 31 for this paper **)
 - Da-Jung Cho, Szilárd Zsolt Fazekas, Shinnosuke Seki, Max Wiedenhöft: A Formalization of Co-Transcriptional Splicing as an Operation on Formal Languages. Natural Computing (2025)
 ___
 [Back to main page](https://github.com/szfazekas/szfazekas)
